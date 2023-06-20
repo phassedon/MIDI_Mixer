@@ -4,7 +4,7 @@
                 2.Potentiometer calibration variables.      [x]
                 3.Stable potentiometer value.               [x]
                 4.Functions for each process.               [x]   
-                4.Files for function grouping.              [x]     
+                4.Files for function grouping.              [x] hi     
                 
     Version:    1
     Update:     Added option dissapear
